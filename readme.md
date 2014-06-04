@@ -1,5 +1,9 @@
 ### Laravel Demo - Select fields and eager loading
 
+Pake composer dulu
+
+    composer install
+
 Ini default-nya pake SQLite. Jangan lupa migrate.
 
     ./artisan migrate --seed
