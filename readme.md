@@ -12,7 +12,7 @@ Idupin web server
 
     ./artisan serve
 
-Buka http://localhost:8000
+Buka [http://localhost:8000](http://localhost:8000)
 
 Lihat file `app/routes.php`
 
@@ -22,4 +22,4 @@ File yang diubah/tambah cuma:
     app/models/Post.php
     app/models/Comment.php
     app/database/migrations/*.php
-    app/database/seeder/*.php
+    app/database/seeds/*.php
